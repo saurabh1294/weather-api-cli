@@ -1,0 +1,58 @@
+{
+    "Year": "2019",
+    "FirstRecordedDate": "2019-01-01",
+    "LastRecordedDate": "2019-05-28",
+    "TotalRainfall": 389.2000000000001,
+    "AverageDailyRainfall": 2.6297297297297306,
+    "DaysWithNoRainfall": 100,
+    "DaysWithRainfall": 48,
+    "MonthlyAggregates": {
+        "WeatherDataForMonth": [
+            {
+                "Month": "January",
+                "FirstRecordedDate": "2019-01-01",
+                "LastRecordedDate": "2019-01-31",
+                "TotalRainfall": 48.79999999999999,
+                "AverageDailyRainfall": 1.5741935483870964,
+                "DaysWithNoRainfall": 21,
+                "DaysWithRainfall": 10
+            },
+            {
+                "Month": "February",
+                "FirstRecordedDate": "2019-02-01",
+                "LastRecordedDate": "2019-02-28",
+                "TotalRainfall": 85.4,
+                "AverageDailyRainfall": 3.0500000000000003,
+                "DaysWithNoRainfall": 16,
+                "DaysWithRainfall": 12
+            },
+            {
+                "Month": "March",
+                "FirstRecordedDate": "2019-03-01",
+                "LastRecordedDate": "2019-03-31",
+                "TotalRainfall": 229.20000000000005,
+                "AverageDailyRainfall": 7.393548387096776,
+                "DaysWithNoRainfall": 13,
+                "DaysWithRainfall": 18
+            },
+            {
+                "Month": "April",
+                "FirstRecordedDate": "2019-04-01",
+                "LastRecordedDate": "2019-04-30",
+                "TotalRainfall": 11.199999999999998,
+                "AverageDailyRainfall": 0.37333333333333324,
+                "DaysWithNoRainfall": 24,
+                "DaysWithRainfall": 6
+            },
+            {
+                "Month": "May",
+                "FirstRecordedDate": "2019-05-01",
+                "LastRecordedDate": "2019-05-28",
+                "TotalRainfall": 14.600000000000001,
+                "AverageDailyRainfall": 0.5214285714285715,
+                "DaysWithNoRainfall": 26,
+                "DaysWithRainfall": 2
+            }
+        ]
+    }
+}
